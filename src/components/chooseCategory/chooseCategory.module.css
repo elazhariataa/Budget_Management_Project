@@ -1,0 +1,25 @@
+.chooseCategory2{
+    font: inherit;
+    color: black;
+    width: 1.15em;
+    height: 1.15em;
+    border: 0.15em solid currentColor;
+    border-radius: 50%;
+    transform: translateY(-0.075em);
+    background-color: CanvasText;
+}
+.chooseCategory1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid white;
+    margin: 5px;
+    padding: 7px;
+    background-color: #082567;
+    color: white;
+    border-radius: 5px;
+}
+.chooseCategory3{
+    padding: 3px;
+    margin: 3px;
+}
